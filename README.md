@@ -1,2 +1,2 @@
 # Flower-image-classifier
-Udacity Project from Data Scientist Nanodegree
+Flower image classifier with CNN - Project from Udacity/Airbus AI nanodegree
